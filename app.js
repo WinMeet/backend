@@ -20,6 +20,7 @@ let mailToSend2 = {
     subject: 'Meeting Details',
     html: '<h1>Invıted to WinMeet</h1>'
 }
+//boris
 ary_to_send.push(mailToSend)
 ary_to_send.push(mailToSend2)
 
